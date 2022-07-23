@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angy.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu0000" x="0" y="0" width="372" height="581" frameX="-29" frameY="-29" frameWidth="401" frameHeight="610"/>
+	<SubTexture name="Menu0001" x="372" y="0" width="380" height="587" frameX="-21" frameY="-23" frameWidth="401" frameHeight="610"/>
+	<SubTexture name="Menu0002" x="752" y="0" width="387" height="595" frameX="-14" frameY="-15" frameWidth="401" frameHeight="610"/>
+	<SubTexture name="Menu0003" x="1139" y="0" width="394" height="602" frameX="-7" frameY="-8" frameWidth="401" frameHeight="610"/>
+	<SubTexture name="Menu0004" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0005" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0006" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0007" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0008" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0009" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0010" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0011" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0012" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0013" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0014" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0015" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0016" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0017" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0018" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0019" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0020" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0021" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0022" x="1533" y="0" width="401" height="610"/>
+	<SubTexture name="Menu0023" x="1533" y="0" width="401" height="610"/>
+</TextureAtlas>
